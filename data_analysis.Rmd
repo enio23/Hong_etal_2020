@@ -1,6 +1,8 @@
 ---
 title: "Enio Gjerga - R Notebook for the analysis of Hong etal 2020 data."
-output: pdf_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook for the Hong etal 2020 manuscript (submitted in [International Journal of Cancer](https://onlinelibrary.wiley.com/journal/10970215)). When you execute code within the notebook, the results appear beneath the code.
@@ -45,7 +47,7 @@ pp <- ggplot(res.plot, aes(x=pc1, y=pc2, color=Group)) +
   #geom_path(arrow=arrow()) +
   theme_minimal() +
   xlab(paste0("PC1 (", round(x = percentages[1], digits = 2), "%)")) +
-  ylab(paste0("PC1 (", round(x = percentages[1], digits = 2), "%)")) +
+  ylab(paste0("PC2 (", round(x = percentages[2], digits = 2), "%)")) +
   xlim(c(-max(abs(res.pca$x[, 1])),max(abs(res.pca$x[, 1])))) +
   ylim(c(-max(abs(res.pca$x[, 2])),max(abs(res.pca$x[, 2])))) + 
   theme(legend.position = "none") +
