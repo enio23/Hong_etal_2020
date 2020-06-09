@@ -9,7 +9,7 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook for the Hong etal
 
 > **R code for the analysis**
 ```{r}
-
+options(warn = -1)
 ## Loading the packages required
 library(readr)
 library(ggplot2)
@@ -17,8 +17,8 @@ library(reshape)
 library(pheatmap)
 library(gridExtra)
 library(grid)
-library(cowplot)
 library(ggrepel)
+library(cowplot)
 
 ## Loading the data and creating sample groups
 load(file = "src/Yinfeng_processed_normalized_gene_counts_wt.RData")
