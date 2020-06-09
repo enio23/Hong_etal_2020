@@ -2,7 +2,7 @@
 Analysis of data for the *Authentication of primary murine normal and pre-cancer hematopoietic progenitor cell lines by a 
 microfluidics-based system*. 
 
-Yingfen Hong$$^{1,2}$$, Nikita Nikita$^{1,2}$, Stefanos Bamopoulos$^{1}$, Enio Gjerga$^{1}$, Laura Schmalbrock$^{1}$, Markus Schick$^{1}$, Ulrich Keller$^{1,3,4}$, Matthias Wirth$^{1}$
+Yingfen Hong<img src="https://latex.codecogs.com/svg.latex?\Large&space;^{1,2}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />, Nikita Nikita$^{1,2}$, Stefanos Bamopoulos$^{1}$, Enio Gjerga$^{1}$, Laura Schmalbrock$^{1}$, Markus Schick$^{1}$, Ulrich Keller$^{1,3,4}$, Matthias Wirth$^{1}$
 
 ^{1}Department of Hematology, Oncology and Tumor Immunology, Campus Benjamin Franklin, Charité - Universitätsmedizin Berlin, Hindenburgdamm 30, 12203 Berlin, Germany
 ^{2}TUM School of Medicine, Technical University Munich, 81675 Munich, Germany
