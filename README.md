@@ -17,6 +17,6 @@ Yingfen Hong <img src="https://latex.codecogs.com/svg.latex?\Large&space;^{1,2}"
 Codes are written in ```R``` (stored as a notebook in the *.Rmd* file) from which results and progress of the analysis together with plots are shown in the *pdf* and *html* preview files. 
 
 The data for the analysis is stored in **src/**.
-The separate *PCA* and *Correlation heatmap* plots of the correlation analysis are stored in the **output_plots** directory.
+The separate *PCA* and *Correlation heatmap* plots of the correlation analysis are stored in the **output_plots/** directory.
 
 **Enio Gjerga, 2020**
